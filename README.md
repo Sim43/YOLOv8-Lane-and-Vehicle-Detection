@@ -10,11 +10,11 @@ This project demonstrates how to build a lane and car detection system using YOL
 # Installation
 1. Clone the repository:
    ```
-    git clone https://github.com/yourusername/lane-car-detection-yolov8.git
+    git clone https://github.com/yourusername/lane-car-detection-yolov8.git](https://github.com/Sim43/YOLOv8-Lane-and-Vehicle-Detection.git
     ```
 2. Install the dependencies:
    ```
-   pip install opencv-python-headless numpy ultralytics
+   pip install -r requirements.txt
    ```
 3. Run the video.py file.
    
